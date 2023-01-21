@@ -9,7 +9,7 @@
 - delete unused columns 
 
 ## Dataset Used
-Nashville Housing Data https://github.com/abrarbader/SQL-Projects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx
+Nashville Housing Data 
 
 ## practices included in the project 
 - Using Basic select statements (select, where, group by, having).
