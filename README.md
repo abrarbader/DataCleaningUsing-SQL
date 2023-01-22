@@ -1,4 +1,4 @@
-# Data Cleaning Using SQL 
+# Housing Dataset Cleaning Using SQL 
 
 ## Introduction
 This project aims to clean and prepare the data for analysis by making adjustments to incomplete data, eliminating unnecessary and duplicate records, separating address fields, and rectifying any improperly formatted data. The goal of data cleaning is not to simplify the dataset by removing data, but rather to improve the accuracy of the collected information.
