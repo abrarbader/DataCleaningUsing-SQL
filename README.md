@@ -19,7 +19,7 @@ This project aims to clean and prepare the data for analysis by making adjustmen
 ## Dataset Used
 Nashville Housing Data 
 
-## practices included in the project 
+## Practices included in the project 
 - Using Basic select statements (select, where, group by, having).
 - The use of Aggregate functions (count, sum, min, max, avg).
 - Joins (inner, outer, left, right).
